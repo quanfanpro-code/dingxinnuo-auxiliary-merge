@@ -1,0 +1,4 @@
+interface:
+  display_name: "鼎信诺辅助核算合并与核对"
+  short_description: "合并鼎信诺序时账及余额表的辅助核算，选择往来对象维度并核对前后数据"
+  default_prompt: "请使用 $dingxinnuo-auxiliary-merge 处理鼎信诺导出的账表，优先保留能识别对方单位或个人的辅助维度，完成合并及前后核对，无法判断时列出客户确认事项。"
